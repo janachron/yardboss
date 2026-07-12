@@ -2,7 +2,7 @@
   {
     "id": "azalea",
     "name": "Azalea",
-    "image": "assets/images/azalea.jpeg",
+    "image": "assets/images/web/azalea.jpg",
     "tasks": {
       "spring": [
         {
@@ -25,7 +25,7 @@
   {
     "id": "cotoneaster",
     "name": "Cotoneaster",
-    "image": "assets/images/cotoneaster.jpeg",
+    "image": "assets/images/web/cotoneaster.jpg",
     "tasks": {
       "spring": [
         {
@@ -48,7 +48,7 @@
   {
     "id": "cypress",
     "name": "Cypress",
-    "image": "assets/images/cypress.jpeg",
+    "image": "assets/images/web/cypress.jpg",
     "tasks": {
       "spring": [
         {
@@ -71,7 +71,7 @@
   {
     "id": "heath",
     "name": "Heath",
-    "image": "assets/images/heath.jpeg",
+    "image": "assets/images/web/heath.jpg",
     "tasks": {
       "spring": [
         {
@@ -88,7 +88,7 @@
   {
     "id": "heather",
     "name": "Heather",
-    "image": "assets/images/heather.jpeg",
+    "image": "assets/images/web/heather.jpg",
     "tasks": {
       "spring": [
         {
@@ -105,7 +105,7 @@
   {
     "id": "kinnikinnick",
     "name": "Kinnikinnick",
-    "image": "assets/images/kinnikinnick.jpeg",
+    "image": "assets/images/web/kinnikinnick.jpg",
     "tasks": {
       "spring": [
         {
@@ -122,7 +122,7 @@
   {
     "id": "pygmybarberry",
     "name": "Pygmy Barberry",
-    "image": "assets/images/pygmybarberry.jpeg",
+    "image": "assets/images/web/pygmybarberry.jpg",
     "tasks": {
       "spring": [
         {
@@ -145,7 +145,7 @@
   {
     "id": "roseglowbarberry",
     "name": "Rose Glow Barberry",
-    "image": "assets/images/roseglowbarberry.jpeg",
+    "image": "assets/images/web/roseglowbarberry.jpg",
     "tasks": {
       "spring": [
         {
@@ -168,7 +168,7 @@
   {
     "id": "spirea",
     "name": "Spirea",
-    "image": "assets/images/spirea.jpeg",
+    "image": "assets/images/web/spirea.jpg",
     "tasks": {
       "spring": [
         {
