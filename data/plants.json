@@ -1,0 +1,191 @@
+[
+  {
+    "id": "azalea",
+    "name": "Azalea",
+    "image": "assets/images/azalea.jpeg",
+    "tasks": {
+      "spring": [
+        {
+          "timing": "After flowering",
+          "title": "Prune after flowering",
+          "details": "Trim back branches immediately after the spring bloom fades. Cut above a leaf node to shape. Avoid late-season pruning as it removes next year's flower buds."
+        }
+      ],
+      "summer": [
+        {
+          "timing": "During dry spells",
+          "title": "Water deeply",
+          "details": "Keep shallow roots evenly moist during dry July/August stretches to prevent leaf scorch and preserve next spring's developing buds."
+        }
+      ],
+      "fall": [],
+      "winter": []
+    }
+  },
+  {
+    "id": "cotoneaster",
+    "name": "Cotoneaster",
+    "image": "assets/images/cotoneaster.jpeg",
+    "tasks": {
+      "spring": [
+        {
+          "timing": "Early spring",
+          "title": "Structural thinning and containment",
+          "details": "Remove dead wood or stray upward-growing branches to maintain a flat, low-profile groundcover habit. Can tolerate hard renewal pruning if it overgrows edges."
+        }
+      ],
+      "summer": [
+        {
+          "timing": "As needed",
+          "title": "Edging control",
+          "details": "Lightly snip back aggressive, creeping tips that spill onto walkways or crowd the sprinkler head."
+        }
+      ],
+      "fall": [],
+      "winter": []
+    }
+  },
+  {
+    "id": "cypress",
+    "name": "Cypress",
+    "image": "assets/images/cypress.jpeg",
+    "tasks": {
+      "spring": [
+        {
+          "timing": "Early spring",
+          "title": "Dead wood removal",
+          "details": "Reach inside the dense canopy to cut out dead, brown inner branches. This improves airflow and reduces fungal risks in wet PNW weather."
+        }
+      ],
+      "summer": [
+        {
+          "timing": "Early summer",
+          "title": "Light structural pruning",
+          "details": "Thin out competing or crowded outer branches to maintain a clean, natural form. Never cut past the green foliage into the bare dead zone of old wood, as it will not regenerate."
+        }
+      ],
+      "fall": [],
+      "winter": []
+    }
+  },
+  {
+    "id": "heath",
+    "name": "Heath",
+    "image": "assets/images/heath.jpeg",
+    "tasks": {
+      "spring": [
+        {
+          "timing": "After flowering",
+          "title": "Shear after bloom",
+          "details": "Shear lightly with hedge trimmers immediately after winter or early spring flowers fade. Cut just below the spent flower spikes to keep the mound dense and tight. Do not cut into old, woody stems."
+        }
+      ],
+      "summer": [],
+      "fall": [],
+      "winter": []
+    }
+  },
+  {
+    "id": "heather",
+    "name": "Heather",
+    "image": "assets/images/heather.jpeg",
+    "tasks": {
+      "spring": [
+        {
+          "timing": "Early spring",
+          "title": "Hard shearing",
+          "details": "Shear back the previous year's growth rigorously in March or April before new green growth starts. Cut right below old flower stalks to prevent the center from becoming leggy and bare."
+        }
+      ],
+      "summer": [],
+      "fall": [],
+      "winter": []
+    }
+  },
+  {
+    "id": "kinnikinnick",
+    "name": "Kinnikinnick",
+    "image": "assets/images/kinnikinnick.jpeg",
+    "tasks": {
+      "spring": [
+        {
+          "timing": "Early spring",
+          "title": "Containment pruning",
+          "details": "Prune back leading edges or overlapping layers to manage its footprint. Cut dead or bare trailing stems back to a healthy lateral branch."
+        }
+      ],
+      "summer": [],
+      "fall": [],
+      "winter": []
+    }
+  },
+  {
+    "id": "pygmybarberry",
+    "name": "Pygmy Barberry",
+    "image": "assets/images/pygmybarberry.jpeg",
+    "tasks": {
+      "spring": [
+        {
+          "timing": "Early spring",
+          "title": "Shape and thin",
+          "details": "Prune to maintain a tight, compact mound. Remove any dead internal twigs to open up light penetration. Thrives with early-season shaping."
+        }
+      ],
+      "summer": [
+        {
+          "timing": "As needed",
+          "title": "Light tipping",
+          "details": "Snip back errant, stray shoots that disrupt the clean spherical shape."
+        }
+      ],
+      "fall": [],
+      "winter": []
+    }
+  },
+  {
+    "id": "roseglowbarberry",
+    "name": "Rose Glow Barberry",
+    "image": "assets/images/roseglowbarberry.jpeg",
+    "tasks": {
+      "spring": [
+        {
+          "timing": "Early spring",
+          "title": "Hard rejuvenation or structural thinning",
+          "details": "If overgrown, this shrub can be cut back hard within a few inches of the ground to reset its size. Otherwise, remove one-third of the oldest, thickest canes at the base to manage height and encourage vibrant new pink foliage."
+        }
+      ],
+      "summer": [
+        {
+          "timing": "As needed",
+          "title": "Whip containment",
+          "details": "Trim back long, aggressive vertical whips to keep the shrub from crowding paths or nearby plants."
+        }
+      ],
+      "fall": [],
+      "winter": []
+    }
+  },
+  {
+    "id": "spirea",
+    "name": "Spirea",
+    "image": "assets/images/spirea.jpeg",
+    "tasks": {
+      "spring": [
+        {
+          "timing": "Early spring",
+          "title": "Hard rejuvenation cut",
+          "details": "Cut the entire shrub down sharply to about 4-6 inches from the ground. Spirea blooms on brand-new summer wood; this hard reset guarantees compact, non-woody growth and maximum flowering."
+        }
+      ],
+      "summer": [
+        {
+          "timing": "Mid-summer",
+          "title": "Deadhead and shear spent blooms",
+          "details": "Shear off the first flush of faded flowers in mid-summer. This cleans up the brown seed heads and frequently triggers a second, lighter bloom cycle in late summer."
+        }
+      ],
+      "fall": [],
+      "winter": []
+    }
+  }
+]
