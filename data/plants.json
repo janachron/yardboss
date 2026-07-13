@@ -321,7 +321,7 @@
   {
     "id": "mugo_pine",
     "name": "Mugo Pine",
-    "image": "assets/images/web/mocu_pine.jpg",
+    "image": "assets/images/web/mugo_pine.jpg",
     "tasks": {
       "spring": [
         {
@@ -342,9 +342,9 @@
     }
   },
   {
-    "id": "mugo_pine",
-    "name": "Mugo Pine",
-    "image": "assets/images/web/mugo_pine.jpg",
+    "id": "mugo_bonsai",
+    "name": "Mugo Bonsai",
+    "image": "assets/images/web/mugo_bonsai.jpg",
     "tasks": {
       "spring": [
         {
