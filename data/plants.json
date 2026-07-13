@@ -228,6 +228,23 @@
     }
   },
   {
+    "id": "japanese_snowbell",
+    "name": "Japanese Snowbell",
+    "image": "assets/images/web/japanese_snowbell.jpg",
+    "tasks": {
+      "spring": [
+        {
+          "timing": "Late spring",
+          "title": "Deadwood and crossing cleanup",
+          "details": "Prune right after the spring blossoms fade. Cut out dead, diseased, or crossing structural branches to open up light inside the canopy. Avoid fall or winter cuts to minimize susceptibility to fungal cankers."
+        }
+      ],
+      "summer": [],
+      "fall": [],
+      "winter": []
+    }
+  },
+  {
     "id": "kinnikinnick",
     "name": "Kinnikinnick",
     "image": "assets/images/web/kinnikinnick.jpg",
@@ -382,15 +399,15 @@
     }
   },
   {
-    "id": "ornamental_cherry",
-    "name": "Ornamental Cherry",
-    "image": "assets/images/web/ornamental_cherry.jpg",
+    "id": "ornamental_plum",
+    "name": "Ornamental Plum",
+    "image": "assets/images/web/ornamental_plum.jpg",
     "tasks": {
       "spring": [
         {
           "timing": "Late spring",
           "title": "Deadwood and crossing cleanup",
-          "details": "Prune right after the spring blossoms fade. Cut out dead, diseased, or crossing structural branches to open up light inside the canopy. Avoid fall or winter cuts to minimize susceptibility to fungal cankers."
+          "details": "Prune right after the spring blossoms fade. Cut out dead, diseased, or crossing structural branches to open up light inside the canopy. Avoid fall or winter cuts to minimize susceptibility to fungal diseases."
         }
       ],
       "summer": [],
