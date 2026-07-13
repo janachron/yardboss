@@ -23,6 +23,63 @@
     }
   },
   {
+    "id": "blue_star_juniper",
+    "name": "Blue Star Juniper",
+    "image": "assets/images/web/blue_star_juniper.jpg",
+    "tasks": {
+      "spring": [
+        {
+          "timing": "Early spring",
+          "title": "Dead inner wood removal",
+          "details": "Reach inside the dense, prickly canopy to clear out dead, brown needles and brittle twigs. This opens up airflow and keeps the inner center from rotting."
+        }
+      ],
+      "summer": [
+        {
+          "timing": "Early summer",
+          "title": "Light tip control",
+          "details": "Gently snip back exceptionally long, stray branch tips if they disrupt the neat, low-mound shape. Avoid shearing across the foliage into old woody sections, as bare inner branches will never regenerate new needles."
+        }
+      ],
+      "fall": [],
+      "winter": []
+    }
+  },
+  {
+    "id": "blueberry",
+    "name": "Blueberry",
+    "image": "assets/images/web/blueberry.jpg",
+    "tasks": {
+      "spring": [
+        {
+          "timing": "Early spring",
+          "title": "Cane renewal and thinning",
+          "details": "Prune during dormancy before buds open. Cut out dead, diseased, or low-spreading wood. Remove the oldest, thickest canes down to the base to stimulate productive young growth, and thin out weak, twiggy growth in the center to optimize fruit size."
+        }
+      ],
+      "summer": [],
+      "fall": [],
+      "winter": []
+    }
+  },
+  {
+    "id": "california_lilac",
+    "name": "California Lilac",
+    "image": "assets/images/web/california_lilac.jpg",
+    "tasks": {
+      "spring": [],
+      "summer": [
+        {
+          "timing": "Immediately after bloom",
+          "title": "Light tipping and containment",
+          "details": "Trim back spent flower clusters and soft green growth to maintain a tight form. Do not cut back into old, thick wood that lacks leaves, as California Lilac cannot regenerate buds from bare wood and will leave permanent dead zones."
+        }
+      ],
+      "fall": [],
+      "winter": []
+    }
+  },
+  {
     "id": "cotoneaster",
     "name": "Cotoneaster",
     "image": "assets/images/web/cotoneaster.jpg",
@@ -69,6 +126,40 @@
     }
   },
   {
+    "id": "dwarf_nandina",
+    "name": "Dwarf Nandina",
+    "image": "assets/images/web/dwarf_nandina.jpg",
+    "tasks": {
+      "spring": [
+        {
+          "timing": "Mid-spring",
+          "title": "Dead cane removal",
+          "details": "Look inside the compact mound and snip off any completely dried or dead canes at the soil line. Avoid formal shearing across the top, which ruins its naturally delicate, feathery fine texture."
+        }
+      ],
+      "summer": [],
+      "fall": [],
+      "winter": []
+    }
+  },
+  {
+    "id": "hardy_geranium",
+    "name": "Hardy Geranium",
+    "image": "assets/images/web/hardy_geranium.jpg",
+    "tasks": {
+      "spring": [],
+      "summer": [
+        {
+          "timing": "Mid-summer after bloom",
+          "title": "Hard rejuvenation shear",
+          "details": "Shear the entire plant down aggressively to about 2 inches from the ground once the primary flowering flush turns ragged and floppy. This triggers rapid, clean new leaf development and often a second flush of flowers by late summer."
+        }
+      ],
+      "fall": [],
+      "winter": []
+    }
+  },
+  {
     "id": "heath",
     "name": "Heath",
     "image": "assets/images/web/heath.jpg",
@@ -103,6 +194,40 @@
     }
   },
   {
+    "id": "heavenly_bamboo",
+    "name": "Heavenly Bamboo",
+    "image": "assets/images/web/heavenly_bamboo.jpg",
+    "tasks": {
+      "spring": [
+        {
+          "timing": "Mid-spring",
+          "title": "Selective cane thinning",
+          "details": "Prune out up to one-third of the oldest, tallest, or barest canes right at ground level to manage vertical height. This promotes dense foliage growth from the base and stops the plant from looking leggy or top-heavy. Avoid shearing the tops straight across."
+        }
+      ],
+      "summer": [],
+      "fall": [],
+      "winter": []
+    }
+  },
+  {
+    "id": "ice_plant",
+    "name": "Ice Plant",
+    "image": "assets/images/web/ice_plant.jpg",
+    "tasks": {
+      "spring": [
+        {
+          "timing": "Mid-spring",
+          "title": "Winter damage cleanup",
+          "details": "Examine the succulent mats and clip out any mushy, blackened, or completely dead stems caused by winter frosts. Avoid heavy pruning; only remove compromised areas to give the plant room to naturally spread."
+        }
+      ],
+      "summer": [],
+      "fall": [],
+      "winter": []
+    }
+  },
+  {
     "id": "kinnikinnick",
     "name": "Kinnikinnick",
     "image": "assets/images/web/kinnikinnick.jpg",
@@ -112,6 +237,177 @@
           "timing": "Early spring",
           "title": "Containment pruning",
           "details": "Prune back leading edges or overlapping layers to manage its footprint. Cut dead or bare trailing stems back to a healthy lateral branch."
+        }
+      ],
+      "summer": [],
+      "fall": [],
+      "winter": []
+    }
+  },
+  {
+    "id": "lacecap_hydrangea",
+    "name": "Lacecap Hydrangea",
+    "image": "assets/images/web/lacecap_hydrangea.jpg",
+    "tasks": {
+      "spring": [
+        {
+          "timing": "Early spring",
+          "title": "Winter cleanup and structural thinning",
+          "details": "Cut back dead wood down to the first pair of healthy, fat green buds. To manage overall bush density, cut up to one-third of the oldest, weakest canes completely down to the ground. Avoid pruning fresh stems entirely, as they carry the current season's blooms."
+        }
+      ],
+      "summer": [
+        {
+          "timing": "Late summer",
+          "title": "Deadheading spent flowers",
+          "details": "Snip off old flower heads just below the bloom down to the next node if a tidier appearance is desired. Alternatively, leave the spent lacecap heads intact through winter to protect the lower nodes from severe cold."
+        }
+      ],
+      "fall": [],
+      "winter": []
+    }
+  },
+  {
+    "id": "laurustinus",
+    "name": "Laurustinus",
+    "image": "assets/images/web/laurustinus.jpg",
+    "tasks": {
+      "spring": [
+        {
+          "timing": "Immediately after flowering",
+          "title": "Structural shaping and containment",
+          "details": "Prune branches back to an outward-facing node to preserve a tight, clean rounded shape. If it has overgrown its space, it responds well to hard renewal cuts early in the season, though this will sacrifice the following winter's berry crop."
+        }
+      ],
+      "summer": [],
+      "fall": [],
+      "winter": []
+    }
+  },
+  {
+    "id": "lithodora",
+    "name": "Lithodora",
+    "image": "assets/images/web/lithodora.jpg",
+    "tasks": {
+      "spring": [],
+      "summer": [
+        {
+          "timing": "Immediately after summer bloom",
+          "title": "Post-flowering hard shear",
+          "details": "Cut the entire low mat back by about half right as the blue flowers finish fading. This intense trim prevents the plant from developing a split, bare center and forces dense, fresh green foliage to ground level."
+        }
+      ],
+      "fall": [],
+      "winter": []
+    }
+  },
+  {
+    "id": "mocu_pine",
+    "name": "Mocu Pine",
+    "image": "assets/images/web/mocu_pine.jpg",
+    "tasks": {
+      "spring": [
+        {
+          "timing": "Late spring",
+          "title": "Candle pruning",
+          "details": "Snap or cleanly cut the fresh upright 'candles' (the new green growth tips) in half before the needles unfurl. This curbs the annual expansion and forces a denser, compact canopy without inducing wood rot."
+        }
+      ],
+      "summer": [
+        {
+          "timing": "Early summer",
+          "title": "Selective structural thinning",
+          "details": "Prune out dead, weak, or crossing inner branches to let sunlight penetrate the core. Always leave active green needles on any branch you trim; cutting back into bare, old wood will result in a permanent dead spot."
+        }
+      ],
+      "fall": [],
+      "winter": []
+    }
+  },
+  {
+    "id": "mugo_pine",
+    "name": "Mugo Pine",
+    "image": "assets/images/web/mugo_pine.jpg",
+    "tasks": {
+      "spring": [
+        {
+          "timing": "Late spring",
+          "title": "Candle pruning",
+          "details": "Snap or cleanly cut the new upright 'candles' (the fresh spring growth tips) in half before the needles unroll. This limits annual branch expansion, thickens the canopy, and keeps the pine naturally small and dense without creating dead spots."
+        }
+      ],
+      "summer": [],
+      "fall": [],
+      "winter": []
+    }
+  },
+  {
+    "id": "orange_blossom",
+    "name": "Mexican Orange Blossom",
+    "image": "assets/images/web/orange_blossom.jpg",
+    "tasks": {
+      "spring": [
+        {
+          "timing": "Late spring",
+          "title": "Post-bloom structural thinning",
+          "details": "Prune immediately after the primary spring white flower flush fades. Cut back leggy branches to a strong lower leaf joint to keep the shrub compact. This timing permits the plant to develop new wood for late-season flowers."
+        }
+      ],
+      "summer": [
+        {
+          "timing": "Late summer",
+          "title": "Stray cane reduction",
+          "details": "Snip off individual erratic, vertical shoots that poke out past the main rounded body of the shrub. Avoid severe fall pruning which leaves new growth vulnerable to early frost damage."
+        }
+      ],
+      "fall": [],
+      "winter": []
+    }
+  },
+  {
+    "id": "oregon_grape",
+    "name": "Oregon Grape",
+    "image": "assets/images/web/oregon_grape.jpg",
+    "tasks": {
+      "spring": [
+        {
+          "timing": "Late spring",
+          "title": "Cane reduction after flowering",
+          "details": "Prune back the tallest canes to a lower outward-facing node right after the yellow spring flowers drop. If the plant becomes bare at the bottom, cut the oldest canes completely to the ground to spark fresh leafy growth from the base."
+        }
+      ],
+      "summer": [],
+      "fall": [],
+      "winter": []
+    }
+  },
+  {
+    "id": "ornamental_cherry",
+    "name": "Ornamental Cherry",
+    "image": "assets/images/web/ornamental_cherry.jpg",
+    "tasks": {
+      "spring": [
+        {
+          "timing": "Late spring",
+          "title": "Deadwood and crossing cleanup",
+          "details": "Prune right after the spring blossoms fade. Cut out dead, diseased, or crossing structural branches to open up light inside the canopy. Avoid fall or winter cuts to minimize susceptibility to fungal cankers."
+        }
+      ],
+      "summer": [],
+      "fall": [],
+      "winter": []
+    }
+  },
+  {
+    "id": "panicle_hydrangea",
+    "name": "Panicle Hydrangea",
+    "image": "assets/images/web/panicle_hydrangea.jpg",
+    "tasks": {
+      "spring": [
+        {
+          "timing": "Early spring",
+          "title": "Hard framework pruning",
+          "details": "Prune back before green growth begins. Unlike macrophyllas, panicles bloom strictly on new wood. Cut branches back by one-half to two-thirds to a sturdy pair of buds to produce massive flower heads, and remove low, spindly interior stems entirely."
         }
       ],
       "summer": [],
@@ -143,6 +439,23 @@
     }
   },
   {
+    "id": "rhododendron",
+    "name": "Rhododendron",
+    "image": "assets/images/web/rhododendron.jpg",
+    "tasks": {
+      "spring": [
+        {
+          "timing": "Immediately after blooming",
+          "title": "Deadheading and structural pruning",
+          "details": "Snap off spent flower trusses carefully by hand right above the fresh leaf buds to redirect plant energy. For larger branches, cut back to a visible leaf node or growth whorl to thin out dead inner wood and maintain a balanced, natural shape without stripping lower foliage."
+        }
+      ],
+      "summer": [],
+      "fall": [],
+      "winter": []
+    }
+  },
+  {
     "id": "roseglowbarberry",
     "name": "Rose Glow Barberry",
     "image": "assets/images/web/roseglowbarberry.jpg",
@@ -166,6 +479,29 @@
     }
   },
   {
+    "id": "shore_pine",
+    "name": "Shore Pine",
+    "image": "assets/images/web/shore_pine.jpg",
+    "tasks": {
+      "spring": [
+        {
+          "timing": "Late spring",
+          "title": "Candle reduction",
+          "details": "Snap the expanding new growth candles by one-third to one-half before the needles fully separate. This limits excessive branch extension and densifies the foliage crown."
+        }
+      ],
+      "summer": [
+        {
+          "timing": "Early summer",
+          "title": "Structural canopy cleanup",
+          "details": "Prune out entirely dead twigs or crossing branches to display the tree's natural, asymmetrical architecture. Never chop into old, needle-free wood unless you intend to completely remove that entire branch."
+        }
+      ],
+      "fall": [],
+      "winter": []
+    }
+  },
+  {
     "id": "spirea",
     "name": "Spirea",
     "image": "assets/images/web/spirea.jpg",
@@ -182,6 +518,63 @@
           "timing": "Mid-summer",
           "title": "Deadhead and shear spent blooms",
           "details": "Shear off the first flush of faded flowers in mid-summer. This cleans up the brown seed heads and frequently triggers a second, lighter bloom cycle in late summer."
+        }
+      ],
+      "fall": [],
+      "winter": []
+    }
+  },
+  {
+    "id": "strawberry_tree",
+    "name": "Strawberry Tree",
+    "image": "assets/images/web/strawberry_tree.jpg",
+    "tasks": {
+      "spring": [
+        {
+          "timing": "Late spring",
+          "title": "Structural thinning and limb clearance",
+          "details": "Prune out dead branches or inner crossing limbs to emphasize its interesting, peeling bark profile. If growing near structures or paths, raise the canopy by removing lower lateral branches cleanly back to the main trunk."
+        }
+      ],
+      "summer": [],
+      "fall": [],
+      "winter": []
+    }
+  },
+  {
+    "id": "wood_betony",
+    "name": "Wood Betony",
+    "image": "assets/images/web/wood_betony.jpg",
+    "tasks": {
+      "spring": [],
+      "summer": [
+        {
+          "timing": "Late summer after bloom",
+          "title": "Deadheading and foliage clean up",
+          "details": "Cut down the spent purple spike stalks right to the basal leaf cluster once flowering completely finishes. This prevents seed production and keeps the crinkled green foliage mat tight and healthy through the season."
+        }
+      ],
+      "fall": [],
+      "winter": []
+    }
+  },
+  {
+    "id": "yew",
+    "name": "Yew",
+    "image": "assets/images/web/yew.jpg",
+    "tasks": {
+      "spring": [
+        {
+          "timing": "Early spring",
+          "title": "Shape or hard renewal pruning",
+          "details": "Unlike most conifers, Yew handles heavy pruning remarkably well. Trim outer foliage back to manage its size or footprint. Old, leggy specimens can even be cut deep into old wood if a size reset is required, as it readily sprouts fresh growth from bare branches."
+        }
+      ],
+      "summer": [
+        {
+          "timing": "Late summer",
+          "title": "Light canopy neatening",
+          "details": "Trim away any erratic, rapid growth shoots that break the clean structural lines before the plant halts active development for winter."
         }
       ],
       "fall": [],
