@@ -319,8 +319,8 @@
     }
   },
   {
-    "id": "mocu_pine",
-    "name": "Mocu Pine",
+    "id": "mugo_pine",
+    "name": "Mugo Pine",
     "image": "assets/images/web/mocu_pine.jpg",
     "tasks": {
       "spring": [
